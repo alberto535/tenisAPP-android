@@ -48,6 +48,7 @@ Abrir:
 http://localhost/phpmyadmin
 
 Crear base de datos (ejemplo: liga_tenis).
+![IMAGEN CON INFORMACIÓN ACERCA DEL ESQUEMA DE LA BASE DE DATOS](https://github.com/alberto535/tenisAPP-android/blob/main/BasesDeDatos.drawio.png?raw=true)
 
 Crear las siguientes tablas según el esquema del diagrama:
 
