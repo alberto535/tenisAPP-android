@@ -1,0 +1,2 @@
+C:/Users/Alberto/AndroidStudioProjects/tfgandroid/android/app/.cxx/Debug/nm144248/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Alberto/AndroidStudioProjects/tfgandroid/android/app/.cxx/Debug/nm144248/arm64-v8a/CMakeFiles/rebuild_cache.dir

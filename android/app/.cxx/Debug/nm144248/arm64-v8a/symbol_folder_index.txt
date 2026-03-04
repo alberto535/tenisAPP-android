@@ -1,0 +1,1 @@
+C:\Users\Alberto\AndroidStudioProjects\tfgandroid\build\app\intermediates\cxx\Debug\nm144248\obj\arm64-v8a
